@@ -1,6 +1,5 @@
-{
-	"notification": "\n>> New Version Available For Download\n",
-	"update": "\n>> This Licence was Deactivated. Contact us on Telegram - @nilkam\n",
-	"mode": 1,
+{	
+	"Available_mode": "yes",
+	"notification": "\n>> New Version Available For Download\n",	
 	"Latestversion": "https://www.youtube.com/"
 }
