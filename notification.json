@@ -1,5 +1,6 @@
 {	
 	"Available_mode": "no",
-	"notification": "\n>> New Version Available For Download\n",	
+	"notification": "\n>> New Version Available For Download\n",
+	"update": "\n>> New Version Available For Download run Activation Tool to Download New Version\n",
 	"Latestversion": "https://www.youtube.com/"
 }
